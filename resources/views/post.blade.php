@@ -18,6 +18,7 @@
         </p>
     </article>
     <a href="/">Go Back</a>
+    <h1><?= $post ?></h1>
 </body>
 
 </html>
